@@ -7,11 +7,13 @@ A science and engineering enthusiast, with a focus on the creation and manipulat
 With a strong interest in AI Development, Cybersecurity, and both high-level and low-level Software. Currently, as a student, I am focused on consolidating my theoretical and practical knowledge. 
 I am training for a specialized profile in AI and Software Engineering.
 
-### 🛠️ Tecnologías y Herramientas
+## 🛠️ Technologies and Tools
 
-<img src="https://shields.io" alt="JavaScript" />
-<img src="https://shields.io" alt="Python" />
 
-<!-- Herramientas -->
-<img src="https://shields.io" alt="Docker" />
-<img src="https://shields.io" alt="Git" />
+
+## 🤝 Soft skills
+- **Leadership**
+- **Effective Communication**
+- **Teamwork**
+- **Problem Solving**
+- **Continuous Learning**
