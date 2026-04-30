@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there I am Jhonatan Alvarado👋
 
-<!--
-**JhontanAlvarado/JhontanAlvarado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Computer Engineering Student at the Universidad Mayor de San Simón
 
-Here are some ideas to get you started:
+A science and engineering enthusiast, with a focus on the creation and manipulation of technology at the software and hardware level.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With a strong interest in AI Development, Cybersecurity, and both high-level and low-level Software. Currently, as a student, I am focused on consolidating my theoretical and practical knowledge. 
+I am training for a specialized profile in AI and Software Engineering.
+
+### 🛠️ Tecnologías y Herramientas
+
+<img src="https://shields.io" alt="JavaScript" />
+<img src="https://shields.io" alt="Python" />
+
+<!-- Herramientas -->
+<img src="https://shields.io" alt="Docker" />
+<img src="https://shields.io" alt="Git" />
