@@ -39,4 +39,4 @@ I am training for a specialized profile in AI and Software Engineering.
 * 🤝 **Teamwork**
 * 🧠 **Problem Solving**
 * 📚 **Continuous Learning**
-* 
+  
