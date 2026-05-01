@@ -3,7 +3,7 @@
 ## Computer Engineering Student at the Universidad Mayor de San Simón
 
 <p align="center">
-  <img src="https://merida.anahuac.mx/hs-fs/hubfs/apreu/Blog/2019%20Blog%20APREU/APREU%20Blog%20-%20Abril%2019/dribbble-shot_6.gif?width=800&name=dribbble-shot_6.gif" width="400" alt="Programming GIF">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOkFy_rItPtNkCgVWQMyaXPVvVRXCkMF_pxg&s" width="250" alt="Programming GIF">
 </p>
 
 A science and engineering enthusiast, with a focus on the creation and manipulation of technology at the software and hardware level.
