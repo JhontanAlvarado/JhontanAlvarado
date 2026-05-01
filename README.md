@@ -3,7 +3,7 @@
 ## Computer Engineering Student at the Universidad Mayor de San Simón
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOkFy_rItPtNkCgVWQMyaXPVvVRXCkMF_pxg&s" width="250" alt="Programming GIF">
+  <img src="https://tecnofgb.com/wp-content/uploads/2024/02/software-software-development.gif" width="250" alt="Programming GIF">
 </p>
 
 A science and engineering enthusiast, with a focus on the creation and manipulation of technology at the software and hardware level.
