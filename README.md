@@ -9,7 +9,25 @@ I am training for a specialized profile in AI and Software Engineering.
 
 ## 🛠️ Technologies and Tools
 
+<h3>💻 Languages</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,ts,python,php" />
+</p>
 
+<h3>⚙️ Frameworks</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,laravel" />
+</p>
+
+<h3>🐳 DevOps & Tools</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash" />
+</p>
+
+<h3>📋 Methodologies</h3>
+<p>
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+</p>
 
 ## 🤝 Soft skills
 - **Leadership**
