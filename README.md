@@ -33,9 +33,10 @@ I am training for a specialized profile in AI and Software Engineering.
   <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
 </p>
 
-## 🤝 Soft skills
-- **Leadership**
-- **Effective Communication**
-- **Teamwork**
-- **Problem Solving**
-- **Continuous Learning**
+## 🤝 **Soft skills**
+* 🧭 **Leadership**
+* 🗣️ **Effective Communication**
+* 🤝 **Teamwork**
+* 🧠 **Problem Solving**
+* 📚 **Continuous Learning**
+* 
